@@ -1,4 +1,4 @@
-# Naive-Bayes classifier from scratch.
+# Bayesian quadratic discriminant analysis
 
 Bu çalışmada Irıs veri setinde Bayes temelli sınıflandırma sistemi tasarlandı. Tüm sınıflara ait 50 örneklemlik 4 boyutlu veri setinin 3. ve 4. boyutları alınarak bu iki boyutlu verinin, tüm sınıflar için iki değişkenli Gauss (bivariate Gaussian) dağılımına uyduğu farz edildi.
 
